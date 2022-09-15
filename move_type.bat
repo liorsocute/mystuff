@@ -1,0 +1,1 @@
+type %localappdata%\Microsoft\Teams\current\version.txt > %localappdata%\Microsoft\Teams\current\version.dll
